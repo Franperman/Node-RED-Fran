@@ -1,0 +1,12 @@
+{
+    "name": "Node-red-entrenar",
+    "description": "Conociendo el entorno de GitHub en Node RED",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows.json",
+            "credentialsFile": "flows_cred.json"
+        }
+    }
+}
